@@ -19,6 +19,7 @@
                     <span>Công ty CP CRC SOLAR CELL  là công ty chuyên sản xuất tấm pin năng lượng mặt trời có trụ sở tại Khu Công Nghiệp Lương Sơn xã Hòa Sơn huyện Lương Sơn tỉnh Hòa Bình, Việt Nam.</span>
                 </div>
                 <div class="info-capacity-container row">
+                    <div class="child"><img src="images/block1.1.jpg" alt=""></div>
                     <div class="child column">
                         <span style="margin-top: 30px;">Là một doanh nghiệp của Việt Nam, CRC Solar luôn luôn tự hào là một doanh nghiệp hàng Việt Nam chất lượng cao đi tiên phong trong ngành sản xuất điện mặt trời này.</span>
                         <br>
@@ -26,7 +27,6 @@
                         <span>Chúng tôi thường xuyên tổ chức các chương trình đào tạo nội bộ, lập kế hoạch nghề nghiệp và chăm sóc đời sống công nhân viên. Ngoài ra, CRC Solar còn hợp tác với các trường đại học, các tổ chức giáo dục và nghiên cứu khoa học để bồi dưỡng tài năng và tạo thêm công ăn việc làm tại địa phương. </span>
                         <a href="about.php" class="center">Xem thêm</a>
                     </div>
-                    <div class="child"><img src="images/block1.1.jpg" alt=""></div>
                     <div class="child capacity">
                         <ul class="column">
                             <li class="row">
@@ -91,7 +91,7 @@
                 </div>
                 <div class="main-new row">
                     <div class="video-container">
-                        <video id="myVideo" width="100%" height="auto" controls autoplay>
+                        <video id="myVideo" width="100%" height="100%" controls autoplay>
                             <source src="videos/CRC.mp4" type="video/mp4">
                         </video>
                     </div>
