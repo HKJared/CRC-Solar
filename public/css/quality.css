@@ -12,6 +12,40 @@ body {
 }
 
 /* Body content */
+.title-quality {
+  height: 200px;
+}
+
+.title-quality h1 {
+  color: var(--mainColor);
+  font-size: 52px;
+}
+
+.container {
+  width: 82%;
+  display: flex;
+  justify-content: center;
+  padding: 60px 0;
+}
+
+.img-quality {
+  width: 80%;
+  overflow: hidden;
+  height: 100%;
+}
+
+.image {
+  width: 100%;
+  object-fit: contain;
+}
+
+.line-white {
+  margin: 0 auto;
+  padding: 0;
+  height: 2px;
+  background-color: white;
+  width: 80%;
+}
 
 /* Map */
 .main {

@@ -1,0 +1,113 @@
+/*  */
+body {
+  color: #7375a3;
+}
+
+.top-main {
+  height: 45vh;
+}
+
+/* Body */
+.row {
+  width: 100%;
+}
+
+.container {
+  width: 90%;
+  padding: 56px 0;
+}
+
+.container .box-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-content h1 {
+  margin-bottom: 32px;
+  color: var(--mainColor);
+}
+
+.box-content p,
+.info-product p {
+  font-size: 18px;
+  margin: 8px 0;
+}
+
+.title-container h1 {
+  position: relative;
+  font-size: 52px;
+  color: var(--mainColor);
+}
+
+.title-container h1:hover {
+  color: var(--extraColor);
+}
+
+.title-container h1::after {
+  content: "";
+  width: 240px;
+  height: 8px;
+  color: var(--extraColor);
+  bottom: -12px;
+  background-color: var(--extraColor);
+  position: absolute;
+  left: 0;
+}
+
+.title-demo {
+  font-size: 44px;
+}
+
+.image-demo {
+  margin: 0 12px;
+  overflow: hidden;
+}
+
+.demo-img {
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 1 / 0.68;
+  transition: all 0.5s ease-in-out;
+}
+
+.demo-img:hover {
+  scale: 1.08;
+}
+
+/* Map */
+.main {
+  background-color: #f1f1f1;
+}
+
+.map-container {
+  width: 100vw;
+  background-color: #f4fbff;
+}
+
+.block2 > * {
+  width: 50%;
+}
+
+.block2 .extra-info {
+  padding: 30px;
+  align-items: end;
+}
+
+.block2 .extra-info .social {
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 20px;
+  background-color: #f3f3f3;
+}
+
+.block2 .extra-info img {
+  height: 50px;
+  margin: 20px 0;
+}
+
+.block2 .extra-info h1 {
+  color: var(--mainColor);
+}
