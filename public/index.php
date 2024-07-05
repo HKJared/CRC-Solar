@@ -3,9 +3,9 @@
 <main class="center">
     <div class="slider">
         <div class="list row">
-            <img src="./images/slide1.jpg" alt="" srcset="">
-            <img src="./images/slide2.jpg" alt="" srcset="">
-            <img src="./images/slide3.jpg" alt="" srcset="">
+            <img src="/images/slide1.jpg" alt="" srcset="">
+            <img src="/images/slide2.jpg" alt="" srcset="">
+            <img src="/images/slide3.jpg" alt="" srcset="">
         </div>
     </div>
     <script src="/js/slider.js"></script>
