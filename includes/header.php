@@ -8,7 +8,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/style.css">
 </head>
-
+<script>
+    function changeTitle(newTitle) {
+        document.title = newTitle;
+    }
+</script>
 <body>
     <div class="top-header row">
         <div class="contact row">
@@ -28,8 +32,8 @@
                     <ul class="sub-menu">
                         <li><a href="">Thư ngỏ</a></li>
                         <li><a href="staff.php">Con người CRC Solar</a></li>
-                        <li><a href="">Tầm nhìn chiến lược</a></li>
-                        <li><a href="">Trách nhiệm xã hội</a></li>
+                        <li><a href="vision.php">Tầm nhìn chiến lược</a></li>
+                        <li><a href="responsibility.php">Trách nhiệm xã hội</a></li>
                     </ul>
                 </li>
                 <li>
@@ -44,7 +48,7 @@
                 <li>
                     <a href="">Tin tức & sự kiện</a>
                     <ul class="sub-menu">
-                        <li><a href="">Tin tức</a></li>
+                        <li><a href="news.php">Tin tức</a></li>
                         <li><a href="">Ứng dụng - Công nghệ</a></li>
                         <li><a href="">Thư viện ảnh</a></li>
                         <li><a href="">Hỏi đáp</a></li>

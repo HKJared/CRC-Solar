@@ -1,0 +1,54 @@
+/* background body */
+
+body {
+    background-image: url('../images/block1.jpg');
+}
+
+.top-main {
+    height: 40vh;
+}
+
+/* main */
+
+.block {
+    margin: 10px 0;
+}
+
+.block img {
+    width: 100%;
+    height: 540px;
+}
+
+.block p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--Text);
+    text-align: justify;
+    text-align-last: left;
+}
+
+.block1 {
+    padding: 0;
+    margin-top: 120px;
+}
+
+.block3 p {
+    width: 100%;
+    padding: 30px;
+    font-size: 24px;
+    background-color: var(--blueBlock1);
+    font-style: italic;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+
+.block5 {
+    display: flex;
+    justify-content: end;
+    margin: 50px 0 70px 0;
+}
+
+.block5 img {
+    height: 40px;
+    width: auto;
+}

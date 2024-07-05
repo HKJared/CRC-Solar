@@ -1,4 +1,7 @@
 <?php include('../includes/header.php'); ?>
+<script>
+    changeTitle("CRC Solar - Giới thiệu");
+</script>
 <link rel="stylesheet" href="css/about.css">
     <main class="center">
         <div class="about top-main center column">
@@ -46,7 +49,7 @@
                     </div>
                 </div>
             </div>
-            <div class="center" style="width: 100vw; background-color: #f5f9ff; border-bottom: 1px solid #eee;">
+            <div class="center" style="width: 100vw; background-color: var(--blueBlock2); border-bottom: 1px solid #eee;">
                 <div class="block block2 row">
                     <div class="left column">
                         <h1>Vì sao nên chọn CRC?</h1>

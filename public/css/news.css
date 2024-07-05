@@ -1,0 +1,131 @@
+body {
+    background-image: url('../images/block1.jpg');
+}
+
+.top-main {
+    height: 40vh;
+}
+
+.search-container {
+    display: flex;
+    justify-content: end;
+}
+
+#search {
+    border: var(--border);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+#search input {
+    border: 0;
+    font-size: 18px;
+    padding-left: 15px;
+    width: 450px;
+    height: 40px;
+    color: var(--extraText);
+}
+
+#search input:focus {
+    outline: none;
+}
+
+#search button {
+    border: 0;
+    background-color: transparent;
+    width: 40px;
+    height: 40px;
+    color: var(-mainColor);
+    font-size: 16px;
+}
+
+.newsletters-container {
+    display: flex;
+    width: calc(100% + 30px); 
+    flex-wrap: wrap;
+    margin: -15px;
+    justify-content: flex-start;
+    margin-top: 30px;
+}
+
+.newsletter {
+    flex: 1 1 calc(33.333% - 30px); 
+    box-sizing: border-box; 
+    max-width: calc(33.333% - 30px);
+    height: 400px;
+    color: var(--Text);
+    border: var(--border);
+    margin: 15px; /* Đặt giá trị dương để tạo khoảng cách giữa các phần tử */
+}
+
+
+.newsletter .img {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.newsletter .img img {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease;
+}
+
+.newsletter:hover img {
+    transform: scale(1.1);
+}
+
+.newsletter:hover {
+    border-color: #eeeeee;
+}
+
+.info-container {
+    padding: 15px;
+}
+
+.info-container .info {
+    justify-content: space-between;
+    padding-bottom: 12px;
+    border-bottom: var(--border);
+    margin-bottom: 12px;
+}
+
+.info-container i {
+    color: #4a7be4;
+}
+
+.block1 .show-more {
+    display: flex;
+    justify-content: end;
+}
+
+.block1 .show-more button {
+    position: relative;
+    border: 0;
+    height: 30px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.block1 .show-more button .background {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    height: 30px;
+    width: 200%;
+    background: linear-gradient(to right, var(--mainColor) 50%, #1a95e7 50%);
+    transition: transform 0.5s ease;
+}
+
+.block1 .show-more a {
+    position: relative;
+    color: #fff;
+    padding: 0 20px;
+    font-size: 14px;
+    z-index: 1;
+}
+
+.block1 .show-more button:hover .background {
+    transform: translateX(50%);
+}
