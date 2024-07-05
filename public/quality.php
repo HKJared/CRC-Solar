@@ -2,9 +2,47 @@
 <link rel="stylesheet" href="css/quality.css">
 <main class="center">
     <div class="slogan top-main center column">
-        <h1>Giải pháp công nghệ PV</h1>
+        <h1>Chất lượng</h1>
     </div>
     <div class="main center column">
+        <!-- Body content -->
+        <div class="row center column">
+            <div class="row center column title-quality">
+                <h1 class="">Chứng nhận</h1>
+            </div>
+
+            <div class="container">
+                <div class="img-quality">
+                    <img src="./images/chungnhan1.png" alt="" class="image">
+                </div>
+            </div>
+
+            <div class="line-white"></div>
+
+            <div class="container">
+                <div class="img-quality">
+                    <img src="./images/chungnhan2.png" alt="" class="image">
+                </div>
+            </div>
+
+            <div class="line-white"></div>
+
+            <div class="container">
+                <div class="img-quality">
+                    <img src="./images/chungnhan3.jpg" alt="" class="image">
+                </div>
+            </div>
+
+            <div class="line-white"></div>
+
+            <h2 style="margin-top: 40px;">ISO 9001 : 2015</h2>
+
+            <div class="container">
+                <div class="img-quality">
+                    <img src="./images/chungnhan4.jpg" alt="" class="image">
+                </div>
+            </div>
+        </div>
         <!-- Map -->
         <div class="map-container center">
             <div class="block block2 row">

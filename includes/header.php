@@ -36,7 +36,7 @@
                     <a href="product.php">Sản phẩm</a>
                     <ul class="sub-menu">
                         <li><a href="Crc-60Mhm-166.php">CRC 60Mhm - 166</a></li>
-                        <li><a href="Crc-72Mhm-166">CRC 72Mhm - 166</a></li>
+                        <li><a href="Crc-72Mhm-166.php">CRC 72Mhm - 166</a></li>
                         <li><a href="technology.php">Công nghệ</a></li>
                         <li><a href="quality.php">Chất lượng</a></li>
                     </ul>
