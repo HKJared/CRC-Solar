@@ -24,20 +24,21 @@
             <ul class="center" id="main-menu">
                 <li><a href="index.php">Trang chủ</a></li>
                 <li>
-                    <a href="">Về chúng tôi</a>
+                    <a href="about.php">Giới thiệu</a>
                     <ul class="sub-menu">
-                        <li><a href="about.php">Giới thiệu</a></li>
-                        <li><a href="">Đối tác</a></li>
+                        <li><a href="">Thư ngỏ</a></li>
+                        <li><a href="staff.php">Con người CRC Solar</a></li>
+                        <li><a href="">Tầm nhìn chiến lược</a></li>
                         <li><a href="">Trách nhiệm xã hội</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a href="">Sản phẩm</a>
+                    <a href="product.php">Sản phẩm</a>
                     <ul class="sub-menu">
-                        <li><a href="../public/product.php">CRC 60Mhm - 166</a></li>
-                        <li><a href="">CRC 72Mhm - 166</a></li>
-                        <li><a href="../public/technology.php">Công nghệ</a></li>
-                        <li><a href="../public/quality.php">Chất lượng</a></li>
+                        <li><a href="Crc-60Mhm-166.php">CRC 60Mhm - 166</a></li>
+                        <li><a href="Crc-72Mhm-166">CRC 72Mhm - 166</a></li>
+                        <li><a href="technology.php">Công nghệ</a></li>
+                        <li><a href="quality.php">Chất lượng</a></li>
                     </ul>
                 </li>
                 <li>
