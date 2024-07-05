@@ -1,0 +1,51 @@
+/*  */
+body {
+  color: #7375a3;
+}
+
+.top-main {
+  height: 45vh;
+}
+
+.slogan h1 {
+  font-size: 44px;
+}
+
+/* Body content */
+
+/* Map */
+.main {
+  background-color: #f1f1f1;
+}
+
+.map-container {
+  width: 100vw;
+  background-color: #f4fbff;
+}
+
+.block2 > * {
+  width: 50%;
+}
+
+.block2 .extra-info {
+  padding: 30px;
+  align-items: end;
+}
+
+.block2 .extra-info .social {
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 20px;
+  background-color: #f3f3f3;
+}
+
+.block2 .extra-info img {
+  height: 50px;
+  margin: 20px 0;
+}
+
+.block2 .extra-info h1 {
+  color: var(--mainColor);
+}
