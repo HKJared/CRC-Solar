@@ -13,6 +13,7 @@
         document.title = newTitle;
     }
 </script>
+
 <body>
     <div class="top-header row">
         <div class="contact row">
@@ -59,7 +60,7 @@
                 <li>
                     <a href="">Liên hệ</a>
                     <ul class="sub-menu">
-                        <li><a href="news.php">Tuyển dụng</a></li>
+                        <li><a href="recruitment.php">Tuyển dụng</a></li>
                         <li><a href="contact.php">Thông tin liên hệ</a></li>
                     </ul>
                 </li>
