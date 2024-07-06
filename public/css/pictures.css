@@ -1,0 +1,90 @@
+body {
+    background-image: url('../images/block1.jpg');
+}
+
+.top-main {
+    height: 40vh;
+}
+
+.block1 h1 {
+    color: var(--mainColor);
+    margin: 20px 0;
+}
+
+.pictures-container {
+    width: 100%;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-auto-rows: 200px;
+    grid-auto-flow: dense;
+}
+
+.pictures-container .wide {
+    grid-column: span 2;
+}
+
+.pictures-container .tall {
+    grid-row: span 2;
+}
+
+.pictures-container .big {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.pictures-container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;    
+    border-radius: 5px;
+}
+
+.pictures-container > div:hover > img {
+    transform: scale(1.1);
+} 
+
+.pictures-container > div > img {
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    transition: transform 0.5s ease;
+}
+
+.block1 .show-more {
+    display: flex;
+    justify-content: end;
+}
+
+.block1 .show-more button {
+    position: relative;
+    border: 0;
+    height: 30px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.block1 .show-more button .background {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    height: 30px;
+    width: 200%;
+    background: linear-gradient(to right, var(--mainColor) 50%, #1a95e7 50%);
+    transition: transform 0.5s ease;
+}
+
+.block1 .show-more a {
+    position: relative;
+    color: #fff;
+    padding: 0 20px;
+    font-size: 14px;
+    z-index: 1;
+}
+
+.block1 .show-more button:hover .background {
+    transform: translateX(50%);
+}

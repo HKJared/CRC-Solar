@@ -1,0 +1,86 @@
+body {
+    background-image: url('../images/block1.jpg');
+}
+
+.top-main {
+    height: 40vh;
+}
+
+.top-block h1, .faqs-container h1, .faqs-container h3 {
+    color: var(--Text);
+}
+
+.top-block h1 {
+    margin: 20px 0;
+}
+
+.block1 {
+    justify-content: space-between;
+}
+
+.block1 .left {
+    width: 35%;
+    padding: 20px 0;
+}
+
+.block1 .left .nav-faqs {
+    position: sticky;
+    top: 85px;
+    border: var(--border);
+    padding: 20px;
+}
+
+.block1 .left .nav-faqs li {
+    border-bottom: var(--border);
+}
+
+.block1 .left .nav-faqs li:last-of-type {
+    border: none;
+}
+
+.block1 .left .nav-faqs li a {
+    color: var(--extraText);
+    font-size: 18px;
+    line-height: 3;
+}
+
+.block1 .left .nav-faqs li a:hover {
+    color: #6ea5d3;
+}
+
+.block1 .right {
+    width: 65%;
+    padding: 20px;
+}
+
+#faqs1, #faqs2, #faqs3 {
+    scroll-margin-top: 80px; /* Để đảm bảo phần tử được cuộn đến không bị che mất */
+}
+
+.block1 .right h1 {
+    font-size: 48px;
+    padding-bottom: 20px;
+}
+
+.block1 .right h3 {
+    font-size: 20px;
+}
+
+.block1 .right .answer-container {
+    padding: 30px 0;
+    border-bottom: var(--border);
+    cursor: pointer;
+}
+
+.block1 .right ul {
+    margin-bottom: 40px;
+}
+
+.block1 .right .answer-container .answer {
+    display: none;
+    padding: 20px;
+}
+
+.block1 .right .answer-container .answer p {
+    color: var(--extraText);
+}

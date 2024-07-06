@@ -92,6 +92,10 @@ header {
   background-color: #fff;
 }
 
+.top-header .contact {
+  justify-content: end;
+}
+
 .top-header .contact > * {
   padding: 0;
   margin-right: 15px;

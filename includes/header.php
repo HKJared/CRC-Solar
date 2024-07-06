@@ -50,8 +50,8 @@
                     <ul class="sub-menu">
                         <li><a href="news.php">Tin tức</a></li>
                         <li><a href="">Ứng dụng - Công nghệ</a></li>
-                        <li><a href="">Thư viện ảnh</a></li>
-                        <li><a href="">Hỏi đáp</a></li>
+                        <li><a href="pictures.php">Thư viện ảnh</a></li>
+                        <li><a href="FAQs.php">Hỏi đáp</a></li>
                         <li><a href="">Các dự án đã triển khai</a></li>
                         <li><a href="">Tải tài liệu</a></li>
                     </ul>
