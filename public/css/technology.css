@@ -44,7 +44,7 @@ body {
   background-color: #fff;
   background-clip: border-box;
   border: 0 solid rgba(0, 0, 0, 0.125);
-  border-radius: 1rem;
+  text-align: center;
 }
 
 .card-item-header .card-item-title {
@@ -55,6 +55,10 @@ body {
 .card-item-body {
   width: 100%;
   overflow: hidden;
+}
+
+.card-item-body p {
+  text-align: center !important;
 }
 
 .card-item-body .body-image {
@@ -100,11 +104,11 @@ body {
   align-items: center;
   flex-direction: column;
   height: 100%;
+  text-align: end;
 }
 
 .container p {
   margin-top: 20px;
-  text-align: start;
   font-size: 20px;
 }
 
