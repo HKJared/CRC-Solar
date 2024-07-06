@@ -11,35 +11,24 @@
                 <h1 class="">Chứng nhận</h1>
             </div>
 
-            <div class="container">
-                <div class="img-quality">
-                    <img src="./images/chungnhan1.png" alt="" class="image">
+            <div class="row">
+                <div class="col-4">
+
                 </div>
             </div>
 
             <div class="line-white"></div>
 
-            <div class="container">
-                <div class="img-quality">
-                    <img src="./images/chungnhan2.png" alt="" class="image">
-                </div>
-            </div>
-
-            <div class="line-white"></div>
+            <h2 style="margin-top: 40px;">Chứng chỉ</h2>
 
             <div class="container">
-                <div class="img-quality">
-                    <img src="./images/chungnhan3.jpg" alt="" class="image">
-                </div>
-            </div>
-
-            <div class="line-white"></div>
-
-            <h2 style="margin-top: 40px;">ISO 9001 : 2015</h2>
-
-            <div class="container">
-                <div class="img-quality">
-                    <img src="./images/chungnhan4.jpg" alt="" class="image">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="box-image">
+                            <img src="./images/chungnhan4.jpg" alt="" class="img-box">
+                        </div>
+                    </div>
+                    <div class="col-6"></div>
                 </div>
             </div>
         </div>

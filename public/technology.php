@@ -12,79 +12,61 @@
 
         <div class="row center column">
             <div class="container">
-                <div class="col-5 left">
-                    <div class="box-content">
-                        <div class="top-block">
-                            <span>Tấm nền đơn tinh thể</span>
+                <div class="row">
+                    <div class="col-4">
+                        <div class="card-item">
+                            <div class="card-item-header">
+                                <div class="top-block">
+                                    <span>Tấm nền đơn tinh thể</span>
+                                </div>
+                                <h1 class="card-item-title">Tấm nền đơn tinh thể</h1>
+                            </div>
+                            <div class="card-item-body">
+                                <div class="body-image">
+                                    <img src="./images/technology1.png" alt="" class="img-body">
+                                </div>
+                                <div class="line-black"></div>
+                                <p>Dựa trên tấm nền đơn tinh thể tiên tiến và công nghệ chống LID, CRC Solar</p>
+                                <p>Đảm bảo bảo hành điện năng năm đầu tiên hơn ≥98% cho các mô-đun PV.</p>
+                            </div>
                         </div>
-                        <h1>Tấm nền đơn tinh thể</h1>
-                        <p>Dựa trên tấm nền đơn tinh thể tiên tiến và công nghệ chống LID, CRC Solar</p>
-                        <p>Đảm bảo bảo hành điện năng năm đầu tiên hơn ≥98% cho các mô-đun PV.</p>
                     </div>
-                </div>
-                <div class="col-7 right">
-                    <div class="box-image">
-                        <img src="./images/technology1.png" alt="" class="img-techno">
-                    </div>
-                </div>
-            </div>
-
-            <div class="line-white"></div>
-
-            <div class="container">
-                <div class="col-7 left">
-                    <div class="box-image">
-                        <img src="./images/technology2.png" alt="" class="img-techno">
-                    </div>
-                </div>
-                <div class="col-5 right">
-                    <div class="box-content">
-                        <div class="top-block">
-                            <span>Hiệu suất bức xạ</span>
+                    <div class="col-4">
+                        <div class="card-item">
+                            <div class="card-item-header">
+                                <div class="top-block">
+                                    <span>Tế bào PERC</span>
+                                </div>
+                                <h1 class="card-item-title">Tế bào PERC hai mặt</h1>
+                            </div>
+                            <div class="card-item-body">
+                                <div class="body-image">
+                                    <img src="./images/technology3.jpg" alt="" class="img-body">
+                                </div>
+                                <div class="line-black"></div>
+                                <p>Đối với tế bào PERC hai mặt, trường bề mặt sau Al được thay thế bằng lưới Al, do đó làm cho phần lớn mặt sau trong suốt</p>
+                                <p>Cho phép tế bào hấp thụ nhiều ánh sáng mặt trời hơn và tạo ra nhiều điện hơn từ cả hai mặt</p>
+                                <p>Tế bào PERC có mặt sau bị động và được tăng cường bởi quá trình tạo rãnh bằng laser, giúp cải thiện đáng kể hiệu quả của tế bào</p>
+                            </div>
                         </div>
-                        <h1>Hiệu suất bức xạ</h1>
-                        <p>Hiệu suất bức xạ thấp vượt trội, hệ số nhiệt độ điện năng thấp, nhiệt độ hoạt động thấp</p>
-                        <p>tất cả những công nghệ này dẫn đến năng suất năng lượng cao cho các mô-đun năng lượng mặt trời của CRC Solar</p>
                     </div>
-                </div>
-            </div>
-
-            <div class="line-white"></div>
-
-            <div class="container">
-                <div class="col-5 left">
-                    <div class="box-content">
-                        <div class="top-block">
-                            <span>Tấm nền đơn tinh thể</span>
+                    <div class="col-4">
+                        <div class="card-item">
+                            <div class="card-item-header">
+                                <div class="top-block">
+                                    <span>Hiệu suất</span>
+                                </div>
+                                <h1 class="card-item-title">Hiệu suất bức xạ vượt trội</h1>
+                            </div>
+                            <div class="card-item-body">
+                                <div class="body-image">
+                                    <img src="./images/technology2.png" alt="" class="img-body">
+                                </div>
+                                <div class="line-black"></div>
+                                <p>Hiệu suất bức xạ thấp vượt trội, hệ số nhiệt độ điện năng thấp, nhiệt độ hoạt động thấp</p>
+                                <p>Tất cả những công nghệ này dẫn đến năng suất năng lượng cao cho các mô-đun năng lượng mặt trời của CRC Solar</p>
+                            </div>
                         </div>
-                        <h1>Tấm nền đơn tinh thể</h1>
-                        <p>Dựa trên tấm nền đơn tinh thể tiên tiến và công nghệ chống LID, CRC Solar</p>
-                        <p>Đảm bảo bảo hành điện năng năm đầu tiên hơn ≥98% cho các mô-đun PV.</p>
-                    </div>
-                </div>
-                <div class="col-7 right">
-                    <div class="box-image">
-                        <img src="./images/technology1.png" alt="" class="img-techno">
-                    </div>
-                </div>
-            </div>
-
-            <div class="line-white"></div>
-
-            <div class="container">
-                <div class="col-7 left">
-                    <div class="box-image">
-                        <img src="./images/technology2.png" alt="" class="img-techno">
-                    </div>
-                </div>
-                <div class="col-5 right">
-                    <div class="box-content">
-                        <div class="top-block">
-                            <span>Hiệu suất bức xạ</span>
-                        </div>
-                        <h1>Hiệu suất bức xạ</h1>
-                        <p>Hiệu suất bức xạ thấp vượt trội, hệ số nhiệt độ điện năng thấp, nhiệt độ hoạt động thấp</p>
-                        <p>tất cả những công nghệ này dẫn đến năng suất năng lượng cao cho các mô-đun năng lượng mặt trời của CRC Solar</p>
                     </div>
                 </div>
             </div>
