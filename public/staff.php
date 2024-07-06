@@ -1,4 +1,7 @@
 <?php include('../includes/header.php') ?>
+<script>
+    changeTitle("CRC Solar - Nhân lực")
+</script>
 <link rel="stylesheet" href="css/staff.css">
 <main class="center">
     <div class="slogan top-main center column">
@@ -44,7 +47,7 @@
             </div>
         </div>
     </div>
-    <div class="center" style="width: 100vw; background-color: #f5f9ff">
+    <div class="center" style="width: 100vw; background-color: var(--blueBlock2);">
         <div class="block block2 column">
             <div class="top-block">
                 <span>Đội ngũ Nghiên cứu và Phát triển</span>

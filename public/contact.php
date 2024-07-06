@@ -1,4 +1,7 @@
 <?php include('../includes/header.php'); ?>
+<script>
+    changeTitle("CRC Solar - Liên hệ")
+</script>
 <link rel="stylesheet" href="css/contact.css">
     <main class="center">
         <div class="slogan top-main center column">
