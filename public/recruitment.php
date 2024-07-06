@@ -109,94 +109,97 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card-item">
-                    <div class="card-item-body">
-                        <div class="row">
-                            <div class="col-10">
-                                <img src="./images//logo.png" alt="" class="logo-item-card">
-                            </div>
-                        </div>
-                        <div class="row" style="margin-top: 12px;">
-                            <div class="col-4 row">
-                                <i class="fa fa-users icon-card" aria-hidden="true"></i>
-                                <p>Quy mô</p>
-                            </div>
-                            <div class="col-8">
-                                <p>30-100 nhân viên</p>
-                            </div>
-                        </div>
-                        <div class="row" style="margin-top: 12px;">
-                            <div class="col-4 row">
-                                <i class="fa fa-map-marker icon-card" aria-hidden="true"></i>
-                                <p>Địa điểm</p>
-                            </div>
-                            <div class="col-8">
-                                <p>104/140 Khuất Duy Tiến, phường Nhân Chính, Quận Thanh Xuân, Hà Nội.</p>
-                            </div>
-                        </div>
+            <div class="col-4 box-sticky">
+                <div style="position: sticky;">
 
-                        <div class="row center">
-                            <a class="see-all">
-                                Xem chi tiết thông tin
-                            </a>
+                    <div class="card-item">
+                        <div class="card-item-body">
+                            <div class="row">
+                                <div class="col-10">
+                                    <img src="./images//logo.png" alt="" class="logo-item-card">
+                                </div>
+                            </div>
+                            <div class="row" style="margin-top: 12px;">
+                                <div class="col-4 row">
+                                    <i class="fa fa-users icon-card" aria-hidden="true"></i>
+                                    <p>Quy mô</p>
+                                </div>
+                                <div class="col-8">
+                                    <p>30-100 nhân viên</p>
+                                </div>
+                            </div>
+                            <div class="row" style="margin-top: 12px;">
+                                <div class="col-4 row">
+                                    <i class="fa fa-map-marker icon-card" aria-hidden="true"></i>
+                                    <p>Địa điểm</p>
+                                </div>
+                                <div class="col-8">
+                                    <p>104/140 Khuất Duy Tiến, phường Nhân Chính, Quận Thanh Xuân, Hà Nội.</p>
+                                </div>
+                            </div>
+
+                            <div class="row center">
+                                <a class="see-all">
+                                    Xem chi tiết thông tin
+                                </a>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="card-item" style="margin-top: 20px;">
-                    <div class="card-body">
-                        <div class="row column">
-                            <h1 class="title-header-item">Thông tin chung</h1>
-                        </div>
-
-                        <div class="row card-item-content">
-                            <div class="icon-card-item">
-                                <i class="fa fa-id-card" aria-hidden="true"></i>
-                            </div>
+                    <div class="card-item" style="margin-top: 20px;">
+                        <div class="card-body">
                             <div class="row column">
-                                <p>Cấp bậc</p>
-                                <h3>Đại học chính quy</h3>
+                                <h1 class="title-header-item">Thông tin chung</h1>
                             </div>
-                        </div>
 
-                        <div class="row card-item-content">
-                            <div class="icon-card-item">
-                                <i class="fa fa-hourglass" aria-hidden="true"></i>
+                            <div class="row card-item-content">
+                                <div class="icon-card-item">
+                                    <i class="fa fa-id-card" aria-hidden="true"></i>
+                                </div>
+                                <div class="row column">
+                                    <p>Cấp bậc</p>
+                                    <h3>Đại học chính quy</h3>
+                                </div>
                             </div>
-                            <div class="row column">
-                                <p>Kinh nghiệm</p>
-                                <h3>3 năm</h3>
-                            </div>
-                        </div>
 
-                        <div class="row card-item-content">
-                            <div class="icon-card-item">
-                                <i class="fa fa-user" aria-hidden="true"></i>
+                            <div class="row card-item-content">
+                                <div class="icon-card-item">
+                                    <i class="fa fa-hourglass" aria-hidden="true"></i>
+                                </div>
+                                <div class="row column">
+                                    <p>Kinh nghiệm</p>
+                                    <h3>3 năm</h3>
+                                </div>
                             </div>
-                            <div class="row column">
-                                <p>Số lượng tuyển</p>
-                                <h3>10 người</h3>
-                            </div>
-                        </div>
 
-                        <div class="row card-item-content">
-                            <div class="icon-card-item">
-                                <i class="fa fa-briefcase" aria-hidden="true"></i>
+                            <div class="row card-item-content">
+                                <div class="icon-card-item">
+                                    <i class="fa fa-user" aria-hidden="true"></i>
+                                </div>
+                                <div class="row column">
+                                    <p>Số lượng tuyển</p>
+                                    <h3>10 người</h3>
+                                </div>
                             </div>
-                            <div class="row column">
-                                <p>Hình thức làm việc</p>
-                                <h3>Nhân viên chính thức</h3>
-                            </div>
-                        </div>
 
-                        <div class="row card-item-content">
-                            <div class="icon-card-item">
-                                <i class="fa fa-male" aria-hidden="true"></i>
+                            <div class="row card-item-content">
+                                <div class="icon-card-item">
+                                    <i class="fa fa-briefcase" aria-hidden="true"></i>
+                                </div>
+                                <div class="row column">
+                                    <p>Hình thức làm việc</p>
+                                    <h3>Nhân viên chính thức</h3>
+                                </div>
                             </div>
-                            <div class="row column">
-                                <p>Giới tính</p>
-                                <h3>Nam/Nữ</h3>
+
+                            <div class="row card-item-content">
+                                <div class="icon-card-item">
+                                    <i class="fa fa-male" aria-hidden="true"></i>
+                                </div>
+                                <div class="row column">
+                                    <p>Giới tính</p>
+                                    <h3>Nam/Nữ</h3>
+                                </div>
                             </div>
                         </div>
                     </div>

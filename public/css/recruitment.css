@@ -137,3 +137,10 @@ body {
   border: none;
   border-radius: 6px;
 }
+
+.box-sticky {
+  position: sticky;
+  top: 80px;
+  position: -webkit-sticky;
+  min-height: 100vh;
+}

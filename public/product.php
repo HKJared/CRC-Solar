@@ -1,83 +1,104 @@
 <?php include('../includes/header.php'); ?>
-<link rel="stylesheet" href="css/contact.css">
+<link rel="stylesheet" href="css/product.css">
 <main class="center">
     <div class="slogan top-main center column">
-        <h1>Thông tin liên hệ</h1>
+        <h1>Sản phẩm</h1>
     </div>
     <div class="main center column">
-        <div class="block block1 row">
-            <div class="left column">
-                <div class="top-block">
-                    <span>Liên hệ với chúng tôi</span>
-                </div>
-                <h1>Chúng tôi có thể giúp gì cho bạn?</h1>
-                <span>Hãy cho chúng tôi biết bạn là ai và bạn đang cần trợ giúp điều gì.</span>
-                <div class="info-container row">
-                    <div class="name column">
-                        <label for="name">Tên của bạn</label>
-                        <input type="text" id="name">
+        <div class="row center column title-technology">
+            <h1 class="">Sản phẩm của chúng tôi</h1>
+            <label>Công nghệ PERC</label>
+        </div>
+
+        <div class="row box-product">
+            <div class="col-3">
+                <div class="product-item">
+                    <div class="row">
+                        <img src="./images/product.jpg" alt="" class="img-product">
                     </div>
-                    <div class="email column">
-                        <label for="email">Email</label>
-                        <input type="text" id="email">
-                    </div>
-                    <div class="phone column">
-                        <label for="phone">Số điện thoại</label>
-                        <input type="text" id="phone">
-                    </div>
+                    <h1 class="product-name">CRC 72MHM - 166</h1>
+                    <p class="product-description">Bifacial Modules</p>
                 </div>
-                <div class="message column">
-                    <label for="message">Câu hỏi của bạn</label>
-                    <input type="text" id="message">
-                </div>
-                <button>Gửi câu hỏi</button>
             </div>
-            <div class="right column">
-                <h1>Thanh Xuân, Hà Nội</h1>
-                <span>Tổng Công ty</span>
-                <ul class="column">
-                    <li><i class="fa-solid fa-location-dot"></i>
-                        <p>104/140 Khuất Duy Tiến, phường Nhân Chính, Quận Thanh Xuân, Hà Nội.</p>
-                    </li>
-                    <li><i class="fa-solid fa-phone"></i>
-                        <p>02186 259 232</p>
-                    </li>
-                    <li><i class="fa-solid fa-envelope"></i>
-                        <p>admin@crcsolar.com.vn</p>
-                    </li>
-                </ul>
-                <div class="hr"></div>
-                <h1>Lương Sơn, Hòa Bình</h1>
-                <span>Nhà máy</span>
-                <ul class="column">
-                    <li><i class="fa-solid fa-location-dot"></i>
-                        <p>Lô 9, đường số 1, Khu công nghiệp Lương Sơn, xã Hòa Sơn, huyện Lương Sơn, tỉnh Hòa Bình.</p>
-                    </li>
-                    <li><i class="fa-solid fa-phone"></i>
-                        <p>0982 484 803</p>
-                    </li>
-                    <li><i class="fa-solid fa-envelope"></i>
-                        <p>admin@crcsolar.com.vn</p>
-                    </li>
-                </ul>
+
+            <div class="col-3">
+                <div class="product-item">
+                    <div class="row">
+                        <img src="./images/main-vision.jpg" alt="" class="img-product">
+                    </div>
+                    <h1 class="product-name">CRC Solar Cell</h1>
+                    <p class="product-description">Crc Solar Cell Công Bố Năm Mẫu Mô-Đun Hiện Hành 2023</p>
+                </div>
+            </div>
+
+            <div class="col-3">
+                <div class="product-item">
+                    <div class="row">
+                        <img src="./images/product1.jpg" alt="" class="img-product">
+                    </div>
+                    <h1 class="product-name">CRC 66MHM - 166</h1>
+                    <p class="product-description">Bifacial Modules</p>
+                </div>
             </div>
         </div>
-        <div class="map-container center">
-            <div class="block block2 row">
-                <div class="map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1863.877181162348!2d105.54829056814654!3d20.881948810981985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313445b324859dd3%3A0x1ee430bc9947d8e6!2zS0NOIEzGsMahbmcgU8ahbg!5e0!3m2!1svi!2s!4v1719662674795!5m2!1svi!2s" width="100%" height="400" style="border: var(--border);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
-                <div class="extra-info column">
-                    <ul class="social-container row">
-                        <li class="social center"><i class="fa-brands fa-tiktok"></i></li>
-                        <li class="social center"><i class="fa-brands fa-facebook-f"></i></li>
-                        <li class="social center"><i class="fa-brands fa-youtube"></i></li>
-                        <li class="social center"><i class="fa-brands fa-twitter"></i></li>
-                    </ul>
-                    <div class="logo">
-                        <img src="images/logo.png" alt="" srcset="">
+
+        <div class="row container">
+            <div class="col-5">
+                <div class="box-image">
+                    <img src="./images/main-responsibility.jpg" alt="" class="img-box">
+                    <div class="box-obsolute">
+                        <div class="row center column">
+                            <h1>4+</h1>
+                            <h2>Sản phẩm</h2>
+                            <p>Tiện ích, vượt trội</p>
+                        </div>
                     </div>
-                    <h1>CRC GROUP</h1>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="box-content-details">
+                    <div class="row column">
+                        <h1 class="title-content">Solar CRC</h1>
+                        <p>Chúng tôi cung cấp nhiều loại tấm pin mặt trời từ các nhà sản xuất
+                            hàng đầu trong ngành để đảm bảo rằng hệ thống năng lượng mặt trời
+                            của bạn vừa bền vừa hiệu quả. Chúng tôi không giới hạn chỉ lắp đặt
+                            một thương hiệu hoặc loại tấm pin mặt trời và có mối quan hệ với
+                            các nhà sản xuất từ ​​khắp nơi trên thế giới, bao gồm cả Hoa Kỳ và
+                            Canada. Điều này cho phép chúng tôi cung cấp nhiều nhãn hiệu tấm
+                            pin mặt trời và pin mặt trời trong khi vẫn duy trì các tiêu chuẩn
+                            cao về chất lượng và hiệu quả. Nếu bạn có bất kỳ câu hỏi nào khác
+                            xin vui lòng liên hệ với chúng tôi ngay hôm nay!</p>
+
+                        <div class="row item-content">
+                            <div class="icon-content">
+                                <i class="fa fa-suitcase" aria-hidden="true"></i>
+                            </div>
+                            <div class="row column">
+                                <h2>Năng lượng mặt trời doanh nghiệp của bạn</h2>
+                                <p>Nếu cần lập kế hoạch, một số nguồn tài trợ và hệ thống, nhân viên, quy trình, công nghệ phù hợp</p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="icon-content">
+                                <i class="fa fa-th" aria-hidden="true"></i>
+                            </div>
+                            <div class="row column">
+                                <h2>Mạng năng lượng mặt trời</h2>
+                                <p>Nếu cần lập kế hoạch, một số nguồn tài trợ và hệ thống, nhân viên, quy trình, công nghệ phù hợp</p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="icon-content">
+                                <i class="fa fa-globe" aria-hidden="true"></i>
+                            </div>
+                            <div class="row column">
+                                <h2>Chi tiết biểu tượng năng lượng mặt trời</h2>
+                                <p>Thêm lòng nhân ái vào sự phức tạp và xây dựng sự tự tin trong các mối quan hệ kinh doanh của bạn.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
