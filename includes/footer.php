@@ -40,7 +40,7 @@
         </div>
     </div>
     <div class="footer-bottom center">
-        <span>Copyright <i class="fa-regular fa-copyright"></i> 2024. Thiết kế bởi <a href="">NHK</a></span>
+        <span>Copyright <i class="fa-regular fa-copyright"></i> CRC Solar 2024.</span>
     </div>
 </footer>
 </body>

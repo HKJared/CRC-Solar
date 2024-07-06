@@ -39,6 +39,7 @@ body {
     align-items: center;
     overflow: hidden;    
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .pictures-container > div:hover > img {
