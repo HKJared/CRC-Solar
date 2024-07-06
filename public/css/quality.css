@@ -28,13 +28,12 @@ body {
   padding: 60px 0;
 }
 
-.img-quality {
-  width: 80%;
+.box-image {
+  width: 100%;
   overflow: hidden;
-  height: 100%;
 }
 
-.image {
+.box-image .img-box {
   width: 100%;
   object-fit: contain;
 }

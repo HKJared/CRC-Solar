@@ -32,6 +32,37 @@ body {
   width: 100%;
 }
 
+.card-item {
+  margin: 0 6px;
+  padding: 20px;
+  box-shadow: 0 0 2rem 0 rgba(136, 152, 170, 0.15);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0 solid rgba(0, 0, 0, 0.125);
+  border-radius: 1rem;
+}
+
+.card-item-header .card-item-title {
+  margin-top: 20px;
+  color: var(--mainColor);
+}
+
+.card-item-body {
+  width: 100%;
+  overflow: hidden;
+}
+
+.card-item-body .body-image {
+  width: 100%;
+  overflow: hidden;
+  height: 100%;
+}
+
 .container {
   width: 84%;
   display: flex;
@@ -48,7 +79,8 @@ body {
   height: 100%;
 }
 
-.container .right .img-techno {
+.container .right .img-techno,
+.body-image .img-body {
   width: 100%;
   aspect-ratio: 1 / 0.68;
   object-fit: cover;
@@ -56,7 +88,8 @@ body {
 }
 
 .container .right .img-techno:hover,
-.container .left .img-techno:hover {
+.container .left .img-techno:hover,
+.body-image .img-body:hover {
   scale: 1.05;
 }
 
