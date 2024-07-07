@@ -40,8 +40,7 @@ button {
   cursor: pointer;
 }
 
-ul,
-li {
+ul, li {
   list-style: none;
 }
 
@@ -183,9 +182,39 @@ ul.sub-menu ul.sub-menu {
   width: 100%;
 }
 
-.languague-container {
+.language-container {
   margin-left: auto;
   margin-right: 15px;
+  cursor: pointer;
+}
+
+.language-container .top-language {
+  position: relative;
+  padding: 10px;
+}
+
+.language-container .top-language .lang1 {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  border: var(--border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  width: 100%;
+  top: 100%;
+  left: 0;
+}
+
+.language-container .top-language .lang1 a span {
+  display: flex;
+  align-items: center;
+  padding: 5px 0;
+  justify-content: center;
+  color: var(--Text);
+}
+
+.language-container .top-language .lang1 a:hover {
+  background-color: #f0f0f0;
 }
 
 /* main */

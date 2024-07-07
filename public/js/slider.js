@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const valJump = imageWidth; 
     let current = 1;
 
+    const checkSlide = () => {}
+
     const autoSlideShow = () => {
         setInterval(() => {
             if (current == imageCount) {

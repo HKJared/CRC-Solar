@@ -2,21 +2,20 @@
     <button class="to-top-btn"><i class="fa-solid fa-chevron-up"></i></button>
     <div class="footer-container row">
         <div class="more-info">
-            <h3>CRC GROUP</h3>
-            <p style="text-align: justify; text-align-last: left;">CRC SOLAR chuyên cung cấp, thi công và triển khai lập dự án lắp đặt pin mặt trời cho các vị trí: Khu công nghiệp, khu dân cư, nhà máy điện mặt trời. Phù hợp với tất cả mọi nhu cầu về quy mô và kích thước.</p>
+            <h3>CRC 集团</h3>
+            <p style="text-align: justify; text-align-last: left;">CRC 太阳能专门提供、安装和实施太阳能电池板项目，适用于工业区、住宅区和太阳能电厂等各种规模和尺寸需求。</p>
         </div>
         <div class="more-info">
-            <h3>Xem thêm</h3>
+            <h3>更多信息</h3>
             <ul class="links-container column">
-                <li class="link"><a href="">Tuyển dụng</a></li>
-                <li class="link"><a href="contact">Hỏi đáp</a></li>
-                <li class="link"><a href="">Thư viện ảnh</a></li>
-                <br>
-                <li class="link"><a href="">Chính sách bảo mật</a></li>
+                <li class="link"><a href="">招聘</a></li>
+                <li class="link"><a href="contact">常见问题</a></li>
+                <li class="link"><a href="">图片库</a></li>
+                <li class="link"><a href="">隐私政策</a></li>
             </ul>
         </div>
         <div class="more-info">
-            <h3>Liên hệ với chúng tôi</h3>
+            <h3>联系我们</h3>
             <ul class="contacts-container column">
                 <li class="contact row">
                     <i class="fa-solid fa-envelope"></i>
@@ -28,13 +27,13 @@
                 </li>
                 <li class="contact row">
                     <i class="fa-solid fa-location-dot"></i>
-                    <span>Lô 9, đường số 1, Khu công nghiệp Lương Sơn, Hòa Sơn, Lương Sơn, Hòa Bình. <br> <br>104/140 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội.</span>
+                    <span>霍亚市霍亚松霍亚山工业区1号路9号<br> <br>河内市善于中心104/140号</span>
                 </li>
             </ul>
         </div>
         <div class="more-info">
-            <h3>Nhận thông báo</h3>
-            <span>Hãy là người đầu tiên nhận thông tin mới nhất từ chúng tôi</span>
+            <h3>获取通知</h3>
+            <span>成为第一个获取我们最新信息的人</span>
             <form id="add-email" action="#" class="row">
                 <input type="text" placeholder="Example@gmail.com">
                 <button type="button"><i class="fa-solid fa-paper-plane"></i></button>
@@ -42,7 +41,7 @@
         </div>
     </div>
     <div class="footer-bottom center">
-        <span>Copyright <i class="fa-regular fa-copyright"></i> CRC Solar 2024.</span>
+        <span>版权所有 <i class="fa-regular fa-copyright"></i> CRC Solar 2024.</span>
     </div>
 </footer>
 </body>

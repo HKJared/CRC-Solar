@@ -3,20 +3,20 @@
     <div class="footer-container row">
         <div class="more-info">
             <h3>CRC GROUP</h3>
-            <p style="text-align: justify; text-align-last: left;">CRC SOLAR chuyên cung cấp, thi công và triển khai lập dự án lắp đặt pin mặt trời cho các vị trí: Khu công nghiệp, khu dân cư, nhà máy điện mặt trời. Phù hợp với tất cả mọi nhu cầu về quy mô và kích thước.</p>
+            <p style="text-align: justify; text-align-last: left;">CRC SOLAR specializes in providing, constructing, and implementing solar panel installation projects for locations such as industrial parks, residential areas, and solar power plants. Suitable for all needs in terms of scale and size.</p>
         </div>
         <div class="more-info">
-            <h3>Xem thêm</h3>
+            <h3>More Info</h3>
             <ul class="links-container column">
-                <li class="link"><a href="">Tuyển dụng</a></li>
-                <li class="link"><a href="contact">Hỏi đáp</a></li>
-                <li class="link"><a href="">Thư viện ảnh</a></li>
+                <li class="link"><a href="">Recruitment</a></li>
+                <li class="link"><a href="contact">FAQs</a></li>
+                <li class="link"><a href="">Photo Gallery</a></li>
                 <br>
-                <li class="link"><a href="">Chính sách bảo mật</a></li>
+                <li class="link"><a href="">Privacy Policy</a></li>
             </ul>
         </div>
         <div class="more-info">
-            <h3>Liên hệ với chúng tôi</h3>
+            <h3>Contact Us</h3>
             <ul class="contacts-container column">
                 <li class="contact row">
                     <i class="fa-solid fa-envelope"></i>
@@ -28,13 +28,13 @@
                 </li>
                 <li class="contact row">
                     <i class="fa-solid fa-location-dot"></i>
-                    <span>Lô 9, đường số 1, Khu công nghiệp Lương Sơn, Hòa Sơn, Lương Sơn, Hòa Bình. <br> <br>104/140 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội.</span>
+                    <span>Lot 9, Road No. 1, Luong Son Industrial Park, Hoa Son, Luong Son, Hoa Binh. <br> <br>104/140 Khuat Duy Tien, Nhan Chinh, Thanh Xuan, Hanoi.</span>
                 </li>
             </ul>
         </div>
         <div class="more-info">
-            <h3>Nhận thông báo</h3>
-            <span>Hãy là người đầu tiên nhận thông tin mới nhất từ chúng tôi</span>
+            <h3>Get Updates</h3>
+            <span>Be the first to receive the latest information from us</span>
             <form id="add-email" action="#" class="row">
                 <input type="text" placeholder="Example@gmail.com">
                 <button type="button"><i class="fa-solid fa-paper-plane"></i></button>
