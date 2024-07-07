@@ -85,7 +85,7 @@
                 <div class="top-language">
                     <span><img src="/images/language-cn.jpg" width="16" height="12">&nbsp;CN</span>
                     <ul class="lang1">
-                        <li><a href="/vn/"><span><img src="/images/language-vn.jpg" width="16">&nbsp;VN</span></a></li>
+                        <li><a href="/"><span><img src="/images/language-vn.jpg" width="16">&nbsp;VN</span></a></li>
                         <li><a href="/en/"><span><img src="/images/language-en.jpg" width="16">&nbsp;EN</span></a></li>
                     </ul>
                 </div>
