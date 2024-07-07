@@ -2,7 +2,7 @@
 <script>
     changeTitle("CRC Solar - Giới thiệu");
 </script>
-<link rel="stylesheet" href="css/about.css">
+<link rel="stylesheet" href="/css/about.css">
     <main class="center">
         <div class="about top-main center column">
             <h1>Giới thiệu</h1>
@@ -10,8 +10,8 @@
         <div class="main center column">
             <div class="block block1 row">
                 <div class="left">
-                    <img src="images/slide4.jpg" alt="" style="top: 0; left: 0; width: 70%; height: 65%;">
-                    <img src="images/slide5.jpg" alt="" style="bottom: 0; right: 0; width: 45%; height: 72%; border: 14px solid #fff; border-width: 14px 0 0 14px;">
+                    <img src="/images/slide4.jpg" alt="" style="top: 0; left: 0; width: 70%; height: 65%;">
+                    <img src="/images/slide5.jpg" alt="" style="bottom: 0; right: 0; width: 45%; height: 72%; border: 14px solid #fff; border-width: 14px 0 0 14px;">
                     <div class="years-of-exp center column" style="top: 0; right: 0; width: 27%; height: 27%;">
                         <h1 class="cnt-num">10+</h1>
                         <p>Năm kinh nghiệm</p>
@@ -25,7 +25,7 @@
                     <span>Công ty CP CRC SOLAR CELL  là công ty chuyên sản xuất tấm pin năng lượng mặt trời có trụ sở tại Khu Công Nghiệp Lương Sơn xã Hòa Sơn huyện Lương Sơn tỉnh Hòa Bình, Việt Nam. <br> <br>Nắm giữ sứ mệnh bảo vệ môi trường và phát triển năng lượng tái tạo, kể từ khi thành lập, CRC Solar luôn luôn nỗ lực không ngừng để cải thiện môi trường xanh và phát triển năng lượng bền vững cho nhân loại.</span>
                     <button>
                         <div class="background"></div>
-                        <a href="contact.php">Liện hệ với chúng tôi</a>
+                        <a href="contact">Liện hệ với chúng tôi</a>
                     </button>
                 </div>
             </div>
@@ -56,8 +56,8 @@
                         <p>ĐẾN TỪ VIỆT NAM CRC Solar có trụ sở tại Hà Nội, có kinh nghiệm nghiên cứu & phát triển, sản xuất, thiết kế và cung ứng trong ngành năng lượng mặt trời. Chúng tôi cung cấp dịch vụ EPC (Thiết bị, Cung cấp, Xây dựng) chuyên nghiệp, trọn đời cho các dự án tại Việt Nam, dựa vào nền tảng sản xuất, R&D mạnh mẽ, sản xuất ổn định và hệ thống phân phối bán hàng toàn cầu. <br> <br>MẠNG LƯỚI PHÂN PHỐI TOÀN CẦU CRC Solar đã thiết lập một mạng lưới dịch vụ toàn cầu hoàn chỉnh để đáp ứng các nhu cầu khác nhau của khách hàng, cung cấp cho các dự án dân cư, thương mại, tiện ích và ngoài lưới tại Việt Nam. Áp dụng sự ưu việt của các mô đun đơn tinh thể PERC hiệu suất cao, CRC Solar đã xây dựng một hệ thống nhà phân phối chuyên nghiệp và đã có chứng nhận tiêu chuẩn cần thiết để hoạt động ở mỗi thị trường trên toàn thế giới. <br> <br>GIẢI PHÁP TIN CẬY Năng lực tài chính ổn định cùng khả năng huy động vốn mạnh mẽ đã giúp CRC Solar trở thành đối tác giải pháp năng lượng mặt trời đáng tin cậy trên toàn châu Âu, Hoa Kỳ, Đông Nam Á và nhiều quốc gia khác. CRC SOLAR đang cố gắng góp mặt trong danh sách các nhà sản xuất tấm pin năng lượng mặt trời hàng đầu thế giới của Bloomberg và PV-magazines, để chứng minh CRC Solar là một đối tác có khả năng tài chính đáng tin cậy cho các dự án năng lượng mặt trời.</p>
                     </div>
                     <div class="right">
-                        <img src="images/slide6.jpg" alt="">
-                        <img src="images/logo.png" alt="" class="logo">
+                        <img src="/images/slide6.jpg" alt="">
+                        <img src="/images/logo.png" alt="" class="logo">
                     </div>
                 </div>
             </div>
@@ -71,28 +71,28 @@
                 </div>
                 <div class="people-container row">
                     <div class="items-people">
-                        <img src="images/people1.jpg" alt="" srcset="">
+                        <img src="/images/people1.jpg" alt="" srcset="">
                         <div class="profile column">
                             <h1>Kathus Nguyen</h1>
                             <span>Quản lý dự án</span>
                         </div>  
                     </div>
                     <div class="items-people">
-                        <img src="images/people2.jpg" alt="" srcset="">
+                        <img src="/images/people2.jpg" alt="" srcset="">
                         <div class="profile column">
                             <h1>Volibear Smith</h1>
                             <span>Quản lý dự án</span>
                         </div>  
                     </div>
                     <div class="items-people">
-                        <img src="images/people3.jpg" alt="" srcset="">
+                        <img src="/images/people3.jpg" alt="" srcset="">
                         <div class="profile column">
                             <h1>Pantheon Martinez</h1>
                             <span>Phân tích năng lượng</span>
                         </div>  
                     </div>
                     <div class="items-people">
-                        <img src="images/people4.jpg" alt="" srcset="">
+                        <img src="/images/people4.jpg" alt="" srcset="">
                         <div class="profile column">
                             <h1>Aphelios Anderson</h1>
                             <span>Kỹ thuật viên</span>
@@ -105,7 +105,7 @@
                 <span>Chuyên viên của chúng tôi sẵn sàng hỗ trợ bạn hiểu được cách năng lượng mặt trời có thể hoạt động cho ngôi nhà của bạn. Hãy đăng ký một buổi tư vấn miễn phí và không ràng buộc để đánh giá nhu cầu năng lượng của bạn cũng như tiềm năng tiết kiệm có thể đạt được.</span>
                 <button>
                     <div class="background"></div>
-                    <a href="contac t.php">Đặt lịch ngay</a>
+                    <a href="contact">Đặt lịch ngay</a>
                 </button>
             </div>
             <div class="block block4 column">
