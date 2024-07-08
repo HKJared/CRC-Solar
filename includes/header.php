@@ -45,30 +45,30 @@
             <ul class="center" id="main-menu">
                 <li><a href="home">Trang chủ</a></li>
                 <li>
-                    <a href="about.php">Giới thiệu</a>
+                    <a href="about">Giới thiệu</a>
                     <ul class="sub-menu">
                         <li><a href="">Thư ngỏ</a></li>
-                        <li><a href="staff.php">Con người CRC Solar</a></li>
-                        <li><a href="vision.php">Tầm nhìn chiến lược</a></li>
-                        <li><a href="responsibility.php">Trách nhiệm xã hội</a></li>
+                        <li><a href="staff">Con người CRC Solar</a></li>
+                        <li><a href="vision">Tầm nhìn chiến lược</a></li>
+                        <li><a href="responsibility">Trách nhiệm xã hội</a></li>
                     </ul>
                 </li>
                 <li>
                     <a href="product">Sản phẩm</a>
                     <ul class="sub-menu">
-                        <li><a href="Crc-60Mhm-166.php">CRC 60Mhm - 166</a></li>
-                        <li><a href="Crc-72Mhm-166.php">CRC 72Mhm - 166</a></li>
-                        <li><a href="technology.php">Công nghệ</a></li>
-                        <li><a href="quality.php">Chất lượng</a></li>
+                        <li><a href="Crc-60Mhm-166">CRC 60Mhm - 166</a></li>
+                        <li><a href="Crc-72Mhm-166">CRC 72Mhm - 166</a></li>
+                        <li><a href="technology">Công nghệ</a></li>
+                        <li><a href="quality">Chất lượng</a></li>
                     </ul>
                 </li>
                 <li>
                     <a href="">Tin tức & sự kiện</a>
                     <ul class="sub-menu">
-                        <li><a href="news.php">Tin tức</a></li>
+                        <li><a href="news">Tin tức</a></li>
                         <li><a href="">Ứng dụng - Công nghệ</a></li>
-                        <li><a href="pictures.php">Thư viện ảnh</a></li>
-                        <li><a href="FAQs.php">Hỏi đáp</a></li>
+                        <li><a href="pictures">Thư viện ảnh</a></li>
+                        <li><a href="FAQs">Hỏi đáp</a></li>
                         <li><a href="">Các dự án đã triển khai</a></li>
                         <li><a href="">Tải tài liệu</a></li>
                     </ul>
@@ -76,8 +76,8 @@
                 <li>
                     <a href="">Liên hệ</a>
                     <ul class="sub-menu">
-                        <li><a href="recruitment.php">Tuyển dụng</a></li>
-                        <li><a href="contact.php">Thông tin liên hệ</a></li>
+                        <li><a href="recruitment">Tuyển dụng</a></li>
+                        <li><a href="contact">Thông tin liên hệ</a></li>
                     </ul>
                 </li>
             </ul>
