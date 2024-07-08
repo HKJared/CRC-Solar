@@ -1,4 +1,4 @@
-<?php include('../../includes/header_en.php'); ?>
+<?php include('../includes/header_en.php'); ?>
 <script>
     changeTitle("CRC Solar - Introduction");
 </script>
@@ -124,4 +124,4 @@
         </div>
     </div>
 </main>
-<?php include('../../includes/footer_en.php'); ?>
+<?php include('../includes/footer_en.php'); ?>

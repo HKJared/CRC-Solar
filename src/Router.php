@@ -28,49 +28,49 @@ class Router
             switch ($path) {
                 case '/':
                 case '/home':
-                    require_once "../public/$language/home.php";
+                    require_once "../public/views/$language/home.php";
                     break;
                 case '/about':
-                    require_once "../public/$language/about.php";
+                    require_once "../public/views/$language/about.php";
                     break;
                 case '/contact':
-                    require_once "../public/$language/contact.php";
+                    require_once "../public/views/$language/contact.php";
                     break;
                 case '/staff':
-                    require_once "../public/$language/staff.php";
+                    require_once "../public/views/$language/staff.php";
                     break;
                 case '/vision':
-                    require_once "../public/$language/vision.php";
+                    require_once "../public/views/$language/vision.php";
                     break;
                 case '/responsibility':
-                    require_once "../public/$language/responsibility.php";
+                    require_once "../public/views/$language/responsibility.php";
                     break;
                 case '/product':
-                    require_once "../public/$language/product.php";
+                    require_once "../public/views/$language/product.php";
                     break;
                 case '/Crc-60Mhm-166':
-                    require_once "../public/$language/Crc-60Mhm-166.php";
+                    require_once "../public/views/$language/Crc-60Mhm-166.php";
                     break;
                 case '/Crc-72Mhm-166':
-                    require_once "../public/$language/Crc-72Mhm-166.php";
+                    require_once "../public/views/$language/Crc-72Mhm-166.php";
                     break;
                 case '/technology':
-                    require_once "../public/$language/technology.php";
+                    require_once "../public/views/$language/technology.php";
                     break;
                 case '/quality':
-                    require_once "../public/$language/quality.php";
+                    require_once "../public/views/$language/quality.php";
                     break;
                 case '/news':
-                    require_once "../public/$language/news.php";
+                    require_once "../public/views/$language/news.php";
                     break;
                 case '/pictures':
-                    require_once "../public/$language/pictures.php";
+                    require_once "../public/views/$language/pictures.php";
                     break;
                 case '/FAQs':
-                    require_once "../public/$language/FAQs.php";
+                    require_once "../public/views/$language/FAQs.php";
                     break;
                 case '/recruitment':
-                    require_once "../public/$language/recruitment.php";
+                    require_once "../public/views/$language/recruitment.php";
                     break;
                 default:
                     http_response_code(404);

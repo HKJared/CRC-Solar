@@ -1,4 +1,4 @@
-<?php include('../../includes/header_cn.php'); ?>
+<?php include('../includes/header_en.php'); ?>
 <link rel="stylesheet" href="/css/index.css">
 <main class="center">
     <div class="slider">
@@ -12,11 +12,11 @@
     <div class="main center column">
         <div class="block block1 center column">
             <div class="top-block">
-                <span>关于我们</span>
+                <span>About Us</span>
             </div>
             <div class="main-block row">
                 <img src="/images/logo.png" alt="" srcset="">
-                <span>CRC 太阳能电池有限公司是一家专门从事太阳能电池板生产的公司，总部位于越南和平省霍亚山区霍亚山工业园。</span>
+                <span>CRC SOLAR CELL JSC is a company specializing in the production of solar panels, headquartered at Luong Son Industrial Park, Hoa Son Commune, Luong Son District, Hoa Binh Province, Vietnam.</span>
             </div>
             <div class="info-capacity-container row">
                 <div class="child">
@@ -27,39 +27,39 @@
                         <li class="row">
                             <div class="capacity-num center cnt-num">200+</div>
                             <div class="capacity-info">
-                                <h3>经验丰富的人员</h3>
-                                <span>团队在太阳能领域拥有丰富的经验和高专业水平。</span>
+                                <h3>Experienced Personnel</h3>
+                                <span>A team with extensive experience and high expertise in the solar energy field.</span>
                             </div>
                         </li>
                         <li class="row">
                             <div class="capacity-num center cnt-num">5</div>
                             <div class="capacity-info">
-                                <h3>成员公司</h3>
-                                <span>提供多样化和丰富的方法和解决方案。</span>
+                                <h3>Member Companies</h3>
+                                <span>Offering diversity and richness in approaches and solutions.</span>
                             </div>
                         </li>
                         <li class="row">
                             <div class="capacity-num center cnt-num">10</div>
                             <div class="capacity-info">
-                                <h3>经验年限</h3>
-                                <span>我们在行业中建立了坚实的声誉和专业知识。</span>
+                                <h3>Years of Experience</h3>
+                                <span>We have built a solid reputation and expertise in the industry.</span>
                             </div>
                         </li>
                         <li class="row">
                             <div class="capacity-num center cnt-num">40+</div>
                             <div class="capacity-info">
-                                <h3>合作伙伴</h3>
-                                <span>致力于为每个项目提供最大的价值。</span>
+                                <h3>Collaborating Partners</h3>
+                                <span>Committed to delivering maximum value for each project.</span>
                             </div>
                         </li>
                     </ul>
                 </div>
                 <div class="child column">
-                    <span style="margin-top: 30px;">作为一家越南企业，CRC 太阳能始终以高质量的越南企业为荣，引领太阳能生产行业。</span>
+                    <span style="margin-top: 30px;">As a Vietnamese enterprise, CRC Solar is always proud to be a high-quality Vietnamese business leading in the solar energy production industry.</span>
                     <br>
                     <br>
-                    <span>我们定期组织内部培训计划、职业规划，并关心员工的生活。此外，CRC 太阳能与大学、教育机构和科研组织合作，培养人才，创造更多的本地就业机会。</span>
-                    <a href="about.php" class="center">了解更多</a>
+                    <span>We regularly organize internal training programs, career planning, and take care of the lives of employees. Additionally, CRC Solar collaborates with universities, educational institutions, and scientific research organizations to nurture talent and create more local employment opportunities. </span>
+                    <a href="about.php" class="center">See more</a>
                 </div>
             </div>
         </div>
@@ -67,29 +67,29 @@
             <div class="items-container row">
                 <div class="item column center">
                     <div class="icon-itm"><i class="fa-solid fa-signs-post"></i></div>
-                    <h4>愿景</h4>
-                    <p>CRC 太阳能努力成为越南制造和建设太阳能电池板项目中技术最先进的领先企业。</p>
+                    <h4>Vision</h4>
+                    <p>CRC SOLAR strives to become a leading company in the field of manufacturing and constructing solar panel projects with the most advanced technology in Vietnam.</p>
                 </div>
                 <div class="item column center">
                     <div class="icon-itm"><i class="fa-solid fa-shield-halved"></i></div>
-                    <h4>使命</h4>
-                    <p>CRC 太阳能始终为每个项目提供最高质量的太阳能电池产品。按照承诺的进度和质量进行制造。</p>
+                    <h4>Mission</h4>
+                    <p>CRC SOLAR always provides the highest quality solar panel products for every project. Manufacturing according to the progress and quality committed to customers.</p>
                 </div>
                 <div class="item column center">
                     <div class="icon-itm"><i class="fa-solid fa-heart"></i></div>
-                    <h4>核心价值观</h4>
-                    <p>持续改进：文化和发展动力。合作：准备根据互利的基础进行合作。尊重：始终尊重客户、员工和合作伙伴。</p>
+                    <h4>Core Values</h4>
+                    <p>Continuous Improvement: Culture and motivation for development. Cooperation: Ready to cooperate on a mutually beneficial basis. Respect: Always respecting customers, employees, and partners.</p>
                 </div>
                 <div class="item column center">
                     <div class="icon-itm"><i class="fa-solid fa-clipboard-question"></i></div>
-                    <h4>为什么选择 CRC</h4>
-                    <p>CRC 太阳能拥有训练有素、纪律严明的技术人员。所有 CRC 太阳能产品都具有高质量和明确的来源。</p>
+                    <h4>Why Choose CRC</h4>
+                    <p>CRC SOLAR has a well-trained technical staff with high discipline. All CRC SOLAR products are of high quality with clear origins.</p>
                 </div>
             </div>
         </div>
         <div class="block column">
             <div class="top-block">
-                <span>新闻与媒体</span>
+                <span>News & Press</span>
             </div>
             <div class="main-new row">
                 <div class="video-container">
@@ -98,13 +98,13 @@
                     </video>
                 </div>
                 <div class="new">
-                    <h3>CRC 太阳能电池有限公司</h3>
-                    <P>2021 年 7 月，CRC 太阳能电池有限公司推出了新的 166 系列，具有高功率和超高效率的模块。这个新的面板系列有 144 个电池片，提供最大功率 550W，并实现了超高效率 21.39%。
-                        <br> CRC 太阳能提供长达 15 年的产品保修期，业界最佳，并提供 25 年线性保修。首年衰减仅为 2%，从第二年到第 25 年的每年最大衰减率为 0.5%。通过升级面板材料和优化设计流程，CRC 太阳能面板提供了卓越的机械负载可靠性和安全性。出色的机械负载性能使我们的产品可安装在雪量/风量较大的地区。
+                    <h3>CRC SOLAR CELL JSC</h3>
+                    <P>In July 2021, CRC Solar Cell JSC launched the new 166 Series with high-power and super-efficient modules. The new panel series with 144 cells provides a maximum power of 550W and achieves a super high efficiency of 21.39%.
+                        <br> CRC Solar offers up to 15 years of product warranty, the best in the industry, and a 25-year linear warranty. The degradation is only 2% in the first year, and the annual maximum degradation is 0.5% from the second year to the 25th year. With upgraded panel materials and optimized design processes, CRC Solar panels provide superior mechanical load reliability and safety. Excellent mechanical load performance makes our products installable in areas with high snow/wind loads.
                     </P>
                 </div>
             </div>
         </div>
     </div>
 </main>
-<?php include('../../includes/footer_cn.php'); ?>
+<?php include('../includes/footer_en.php'); ?>

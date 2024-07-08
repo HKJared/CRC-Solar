@@ -44,7 +44,7 @@
             <ul class="center" id="main-menu">
                 <li><a href="home">Home</a></li>
                 <li>
-                    <a href="about.php">About Us</a>
+                    <a href="about">About Us</a>
                     <ul class="sub-menu">
                         <li><a href="">Welcome Letter</a></li>
                         <li><a href="staff">Our People</a></li>
