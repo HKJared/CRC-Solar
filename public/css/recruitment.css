@@ -160,7 +160,7 @@ body {
 
 .recruitment-container {
   margin-bottom: 60px;
-  display: none;
+  /* display: none; */
 }
 
 .top-block h1,
@@ -252,7 +252,7 @@ body {
 }
 
 .block1 .right .answer-container .answer {
-  display: none;
+  /* display: none; */
   padding: 20px;
 }
 
