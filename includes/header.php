@@ -44,7 +44,7 @@
             <ul class="center" id="main-menu">
                 <li><a href="home">Trang chủ</a></li>
                 <li>
-                    <a href="about">Giới thiệu</a>
+                    <a href="about.php">Giới thiệu</a>
                     <ul class="sub-menu">
                         <li><a href="">Thư ngỏ</a></li>
                         <li><a href="staff.php">Con người CRC Solar</a></li>
