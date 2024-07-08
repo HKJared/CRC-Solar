@@ -12,33 +12,65 @@
 
         <div class="row box-product">
             <div class="col-3">
-                <div class="product-item">
+                <a href="Crc-72Mhm-166" class="product-item">
                     <div class="row">
                         <img src="./images/product.jpg" alt="" class="img-product">
                     </div>
                     <h1 class="product-name">CRC 72MHM - 166</h1>
                     <p class="product-description">Bifacial Modules</p>
-                </div>
+                </a>
             </div>
 
             <div class="col-3">
-                <div class="product-item">
+                <a href="#" class="product-item">
                     <div class="row">
                         <img src="./images/main-vision.jpg" alt="" class="img-product">
                     </div>
                     <h1 class="product-name">CRC Solar Cell</h1>
                     <p class="product-description">Crc Solar Cell Công Bố Năm Mẫu Mô-Đun Hiện Hành 2023</p>
-                </div>
+                </a>
             </div>
 
             <div class="col-3">
-                <div class="product-item">
+                <a href="Crc-60Mhm-166" class="product-item">
                     <div class="row">
                         <img src="./images/product1.jpg" alt="" class="img-product">
                     </div>
                     <h1 class="product-name">CRC 66MHM - 166</h1>
                     <p class="product-description">Bifacial Modules</p>
-                </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="row box-product" style="padding-top: 0;">
+            <div class="col-3">
+                <a href="#" class="product-item">
+                    <div class="row">
+                        <img src="./images/gach1.png" alt="" class="img-product">
+                    </div>
+                    <h1 class="product-name">Gạch ốp lát CRC Premier</h1>
+                    <p class="product-description">Crc PREMIER</p>
+                </a>
+            </div>
+
+            <div class="col-3">
+                <a href="Crc-72Mhm-166" class="product-item">
+                    <div class="row">
+                        <img src="./images/nongsan.jpg" alt="" class="img-product">
+                    </div>
+                    <h1 class="product-name">Nông sản CRC RUBBER</h1>
+                    <p class="product-description">CRC Điều</p>
+                </a>
+            </div>
+
+            <div class="col-3">
+                <a href="Crc-60Mhm-166" class="product-item">
+                    <div class="row">
+                        <img src="./images/gach2.png" alt="" class="img-product">
+                    </div>
+                    <h1 class="product-name">Gạch xây dựng Tuynel</h1>
+                    <p class="product-description">CRC</p>
+                </a>
             </div>
         </div>
 
