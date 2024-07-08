@@ -59,7 +59,7 @@
                     <br>
                     <br>
                     <span>We regularly organize internal training programs, career planning, and take care of the lives of employees. Additionally, CRC Solar collaborates with universities, educational institutions, and scientific research organizations to nurture talent and create more local employment opportunities. </span>
-                    <a href="about.php" class="center">See more</a>
+                    <a href="about" class="center">See more</a>
                 </div>
             </div>
         </div>

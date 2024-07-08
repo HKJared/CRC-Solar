@@ -59,7 +59,7 @@
                     <br>
                     <br>
                     <span>Chúng tôi thường xuyên tổ chức các chương trình đào tạo nội bộ, lập kế hoạch nghề nghiệp và chăm sóc đời sống công nhân viên. Ngoài ra, CRC Solar còn hợp tác với các trường đại học, các tổ chức giáo dục và nghiên cứu khoa học để bồi dưỡng tài năng và tạo thêm công ăn việc làm tại địa phương. </span>
-                    <a href="about.php" class="center">Xem thêm</a>
+                    <a href="about" class="center">Xem thêm</a>
                 </div>
             </div>
         </div>

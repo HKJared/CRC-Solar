@@ -1,43 +1,43 @@
-<?php include('../includes/header_en.php'); ?>
+<?php include('../includes/header_cn.php'); ?>
 <script>
-    changeTitle("CRC Solar - Contact")
+    changeTitle("CRC Solar - 联系我们")
 </script>
 <link rel="stylesheet" href="/css/contact.css">
 <main class="center">
     <div class="slogan top-main center column">
-        <h1>Contact Information</h1>
+        <h1>联系信息</h1>
     </div>
     <div class="main center column">
         <div class="block block1 row">
             <div class="left column">
                 <div class="top-block">
-                    <span>Contact Us</span>
+                    <span>联系我们</span>
                 </div>
-                <h1>How can we help you?</h1>
-                <span>Let us know who you are and what assistance you need.</span>
+                <h1>我们如何帮助您？</h1>
+                <span>告诉我们您是谁以及您需要什么帮助。</span>
                 <div class="info-container row">
                     <div class="name column">
-                        <label for="name">Your Name</label>
+                        <label for="name">您的姓名</label>
                         <input type="text" id="name">
                     </div>
                     <div class="email column">
-                        <label for="email">Email</label>
+                        <label for="email">电子邮件</label>
                         <input type="text" id="email">
                     </div>
                     <div class="phone column">
-                        <label for="phone">Phone Number</label>
+                        <label for="phone">电话号码</label>
                         <input type="text" id="phone">
                     </div>
                 </div>
                 <div class="message column">
-                    <label for="message">Your Question</label>
+                    <label for="message">您的问题</label>
                     <input type="text" id="message">
                 </div>
-                <button>Send Question</button>
+                <button>发送问题</button>
             </div>
             <div class="right column">
                 <h1>Thanh Xuan, Hanoi</h1>
-                <span>Headquarters</span>
+                <span>总公司</span>
                 <ul class="column">
                     <li><i class="fa-solid fa-location-dot"></i> <p>104/140 Khuat Duy Tien, Nhan Chinh Ward, Thanh Xuan District, Hanoi.</p></li>
                     <li><i class="fa-solid fa-phone"></i> <p>02186 259 232</p></li>
@@ -45,7 +45,7 @@
                 </ul>
                 <div class="hr"></div>
                 <h1>Luong Son, Hoa Binh</h1>
-                <span>Factory</span>
+                <span>工厂</span>
                 <ul class="column">
                     <li><i class="fa-solid fa-location-dot"></i> <p>Lot 9, Street 1, Luong Son Industrial Park, Hoa Son Commune, Luong Son District, Hoa Binh Province.</p></li>
                     <li><i class="fa-solid fa-phone"></i> <p>0982 484 803</p></li>
@@ -74,4 +74,4 @@
         </div>
     </div>
 </main>
-<?php include('../includes/footer_en.php'); ?>
+<?php include('../includes/footer_cn.php'); ?>

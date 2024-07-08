@@ -1,0 +1,128 @@
+/*  */
+body {
+    background-image: url("../images/block1.jpg");
+    color: #7375a3;
+  }
+  
+  .top-main {
+    height: 45vh;
+  }
+  
+  .slogan h1 {
+    font-size: 44px;
+  }
+  
+  /* Body content */
+  .title-technology {
+    height: 200px;
+  }
+  
+  .title-technology h1 {
+    color: var(--mainColor);
+    font-size: 52px;
+  }
+  
+  .title-technology label {
+    margin-top: 8px;
+    font-size: 28px;
+    color: #666;
+  }
+  
+  .row {
+    width: 100%;
+  }
+  
+  .container {
+    width: 82%;
+    padding: 60px 0;
+    justify-content: space-between;
+  }
+  
+  .box-image {
+    position: relative;
+    width: 100%;
+  }
+  
+  .box-obsolute {
+    position: absolute;
+    background-color: #1a95e7;
+    width: 200px;
+    right: -100px;
+    top: 10%;
+    padding: 24px 20px;
+    color: white;
+  }
+  
+  .img-box {
+    width: 100%;
+    object-fit: contain;
+  }
+  
+  .box-product {
+    background-color: var(--blueBlock1);
+    justify-content: center;
+    padding: 40px 0;
+  }
+  
+  .product-item {
+    cursor: pointer;
+    margin: 0 12px;
+    padding: 20px;
+    box-shadow: 0 0 2rem 0 rgba(136, 152, 170, 0.15);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0, 0, 0, 0.125);
+    text-align: center;
+  }
+  
+  .product-item .row {
+    overflow: hidden;
+  }
+  
+  .img-product {
+    width: 100%;
+    aspect-ratio: 1 / 0.68;
+    transition: all 0.5s ease-out;
+  }
+  
+  .img-product:hover {
+    scale: 1.08;
+  }
+  
+  .product-name {
+    margin-top: 20px;
+    margin-bottom: 12px;
+  }
+  
+  .box-content-details {
+    padding: 0 20px;
+  }
+  
+  .title-content {
+    color: var(--mainColor);
+    margin-bottom: 16px;
+  }
+  
+  .box-content-details p {
+    line-height: 1.8;
+    font-size: 18px;
+    margin-bottom: 32px;
+  }
+  
+  .icon-content {
+    width: 60px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    padding-top: 6px;
+  }
+  
+  .item-content h2 {
+    margin-bottom: 12px;
+  }

@@ -59,7 +59,7 @@
                     <br>
                     <br>
                     <span>我们定期组织内部培训计划、职业规划，并关心员工的生活。此外，CRC 太阳能与大学、教育机构和科研组织合作，培养人才，创造更多的本地就业机会。</span>
-                    <a href="about.php" class="center">了解更多</a>
+                    <a href="about" class="center">了解更多</a>
                 </div>
             </div>
         </div>

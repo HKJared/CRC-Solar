@@ -1,8 +1,8 @@
-<?php include('../includes/header.php'); ?>
-<link rel="stylesheet" href="/css/news.css">
+<?php include('../includes/header_cn.php'); ?>
+<link rel="stylesheet" href="/css/projects.css">
 <main class="center">
     <div class="slogan top-main center column">
-        <h1>Tin tức</h1>
+        <h1>已实施项目</h1>
     </div>
     <div class="main center column">
         <div class="block block1 column">
@@ -13,7 +13,7 @@
                 </form>
             </div>
             <div class="top-block">
-                <span>Danh sách bản tin</span>
+                <span>项目列表</span>
             </div>
             <div class="newsletters-container">
                 <a href="" class="newsletter column">
@@ -26,7 +26,7 @@
                             <p><i class="fa-regular fa-clock"></i> 11/02/2022</p>
                         </div>
                         <div class="title">
-                            <h3>Triển lãm & Hội nghị phát điện quang điện Quốc tế (Snec Pv) 2024</h3>
+                            <h3>2024国际太阳能发电展览会与会议（Snec Pv）</h3>
                         </div>
                     </div>
                 </a>
@@ -40,7 +40,7 @@
                             <p><i class="fa-regular fa-clock"></i> 11/02/2022</p>
                         </div>
                         <div class="title">
-                            <h3>Điện năng lượng mặt trời phát triển những thành phố thông minh</h3>
+                            <h3>智能城市太阳能能源开发</h3>
                         </div>
                     </div>
                 </a>
@@ -54,7 +54,7 @@
                             <p><i class="fa-regular fa-clock"></i> 11/02/2022</p>
                         </div>
                         <div class="title">
-                            <h3>Triển khai mô hình điện mặt trời áp mái hướng tới giảm phát thải</h3>
+                            <h3>屋顶太阳能模型实施旨在减少排放</h3>
                         </div>
                     </div>
                 </a>
@@ -68,7 +68,7 @@
                             <p><i class="fa-regular fa-clock"></i> 11/02/2022</p>
                         </div>
                         <div class="title">
-                            <h3>Xu hướng "Xanh hóa" năng lượng trong sản xuất</h3>
+                            <h3>制造业绿色能源趋势</h3>
                         </div>
                     </div>
                 </a>
@@ -82,7 +82,7 @@
                             <p><i class="fa-regular fa-clock"></i> 11/02/2022</p>
                         </div>
                         <div class="title">
-                            <h3>Triển lãm quốc tế về Năng lượng Điện và Chiếu sáng Việt Nam - EI Vietnam 2024</h3>
+                            <h3>越南国际电气与照明能源展览会 - EI Vietnam 2024</h3>
                         </div>
                     </div>
                 </a>
@@ -96,7 +96,7 @@
                             <p><i class="fa-regular fa-clock"></i> 11/02/2022</p>
                         </div>
                         <div class="title">
-                            <h3>Kế hoạch Thực hiện quy hoạch Điện 8 được Thủ tướng phê duyệt</h3>
+                            <h3>8号电力规划实施计划获得总理批准</h3>
                         </div>
                     </div>
                 </a>
@@ -104,10 +104,10 @@
             <div class="show-more">
                 <button type="button">
                     <div class="background"></div>
-                    <a href="#">Xem thêm</a>
+                    <a href="#">查看更多</a>
                 </button>
             </div>
         </div>
     </div>
 </main>
-<?php include('../includes/footer.php'); ?>
+<?php include('../includes/footer_cn.php'); ?>
